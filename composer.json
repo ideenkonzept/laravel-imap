@@ -1,8 +1,8 @@
 {
-    "name" : "ideenkonzept/laravel-imap",
-    "autoload" : {
-        "psr-4": {
-            "Ideenkonzept\\Imap\\" : "src/"
-        }
-    },
+	"name": "ideenkonzept/laravel-imap",
+	"autoload": {
+		"psr-4": {
+			"Ideenkonzept\\Imap\\": "src/"
+		}
+	}
 }
